@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.d
+reversi
+
+# Build directories
+build/
+
+# Editor / IDE
+.vscode/
+*.swp
+*.swo
+*~
